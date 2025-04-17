@@ -38,4 +38,4 @@ A sleek and responsive weather application built using **HTML**, **CSS**, **Java
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+  (https://github.com/vaishnavi7997/Weather-App/tree/main)
